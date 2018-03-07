@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afaefa2e-61b8-40dc-895b-12679f0e4f5a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/eslintPlugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/both/PeopleCollection.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/server/PeopleInitialization.js" />
-    </list>
+    <list default="true" id="afaefa2e-61b8-40dc-895b-12679f0e4f5a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -220,7 +215,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="1795" height="1038" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24985932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
