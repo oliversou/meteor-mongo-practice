@@ -8,3 +8,4 @@ if (people.find().count() === 0) {
   people.insert({ first: "Doris", last: "Johnson", age: 93, city: "Naples" });
   people.insert({ first: "Oliver", last: "Sou", age: 20, city: "Honolulu" });
 }
+// people.insert({ animal: "Dog", name: "Koa", city: "Pearl City" });
